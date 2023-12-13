@@ -1,16 +1,17 @@
-### Hi there 👋
+<div align=center>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fneulvo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
 
-<!--
-**neulvo/neulvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Responsible AI Engineer
+- Study builder at Pseudo-Lab 7th, [Responsible AI study](https://github.com/Pseudo-Lab/responsibleAI)
 
-Here are some ideas to get you started:
+### Interest
+- Reponsible AI, AI Ethics
+- AI Art, Digital Art
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neulvo/)](https://www.linkedin.com/in/neulvo/)
+[![Notion Badge](https://img.shields.io/badge/-notion-badge?style=flat-square&logo=Notion&logoColor=black&color=white&link=https%3A%2F%2Fwww.notion.so%2Fneulvo%2F553a7c2f555f41eaae7e7f584ad34695%3Fpvs%3D4)](link=https%3A%2F%2Fwww.notion.so%2Fneulvo%2F553a7c2f555f41eaae7e7f584ad34695%3Fpvs%3D4)
+[![Tistory Badge](https://img.shields.io/badge/-tistory-badge?style=flat-square&logo=Tistory&logoColor=white&color=%23eb531f&link=https%3A%2F%2Fneulvo.tistory.com%2F)](https://neulvo.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghettolight91@gmail.com)](mailto:ghettolight91@gmail.com)  
+</div>
